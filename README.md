@@ -1,8 +1,8 @@
 # 👨🏽‍💻 Argenis De La Rosa
 
-**`Digital Craftsman (Developer/Trader/Creator)`**
+**`Digital Craftsman ( Developer / Trader / Creator )`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[Argenis Delarosa][youtube]" to more than 100 subscribers.
+As a software engineer with a passion for trading and cryptocurrencies, I find myself at the intersection of technology and finance, exploring innovative ways to merge these worlds. By day, I'm immersed in the realm of coding, constantly seeking elegant solutions to complex problems. My love for trading extends beyond the screen, influencing my perspective on how technology can redefine the landscape of financial markets. In my spare time, I wear a different hat as a creative director, channeling my creativity into various projects. This dual role allows me to balance the structured logic of programming with the boundless imagination required for creative endeavors. Join me on this journey where lines between code and creativity blur, and where every line of code tells a story of its own.
 
 ---
 
