@@ -45,8 +45,8 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 tips on how to become a better Software Engineer](https://dev.to/codestackr/render-atl-2023-trip-report-mp4](https://medium.com/@argenisdelarosa/5-tips-on-how-to-become-a-better-software-engineer-37866c036ba9)
-- [An alternative approach to using DOM within Visual Studio Code without having to leave the IDE.][https://dev.to/codestackr/web-development-roadmap-2023-5beo](https://medium.com/@argenisdelarosa/an-alternative-approach-to-using-dom-within-visual-studio-code-without-having-to-leave-the-ide-2b22b8441093))
+- [5 tips on how to become a better Software Engineer](https://medium.com/@argenisdelarosa/5-tips-on-how-to-become-a-better-software-engineer-37866c036ba9)
+- [An alternative approach to using DOM within Visual Studio Code without having to leave the IDE.](https://medium.com/@argenisdelarosa/an-alternative-approach-to-using-dom-within-visual-studio-code-without-having-to-leave-the-ide-2b22b8441093)
 <!-- BLOG-POST-LIST:END -->
 
 ---
