@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Trader/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ArgenisDelarosa][youtube]" to more than 100 subscribers.
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[Argenis Delarosa][youtube]" to more than 100 subscribers.
 
 ---
 
@@ -26,16 +26,34 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <br />
 
+
+
 #
+
 
 
 ### 📊 Stats
 
 ![Argenis's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlyhennygod&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=theonlyhennygod&theme=gruvbox&border_radius=4.5)
+
 
 #
+
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [5 tips on how to become a better Software Engineer](https://dev.to/codestackr/render-atl-2023-trip-report-mp4](https://medium.com/@argenisdelarosa/5-tips-on-how-to-become-a-better-software-engineer-37866c036ba9)
+- [An alternative approach to using DOM within Visual Studio Code without having to leave the IDE.][https://dev.to/codestackr/web-development-roadmap-2023-5beo](https://medium.com/@argenisdelarosa/an-alternative-approach-to-using-dom-within-visual-studio-code-without-having-to-leave-the-ide-2b22b8441093))
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+
+#
+
 
 <details>
  <summary><h3>👨‍💻 Argenis's Coding Journey</h3></summary>
@@ -43,3 +61,4 @@ I'm an indie full-stack developer and content creator building my version of the
 
 [website]: https://argenisdelarosa.com
 [youtube]: https://youtube.com/@argenisdelarosa
+[medium]: https://medium.com/@argenisdelarosa
