@@ -37,9 +37,9 @@ As a software engineer with a passion for trading and cryptocurrencies, I find m
 
 ### 📊 Stats
 
-![Argenis's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlyhennygod&show_icons=true&theme=gruvbox)
+![Argenis's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonlyhennygod&show_icons=true&theme=highcontrast)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=theonlyhennygod&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=theonlyhennygod&theme=highcontrast&border_radius=4.5)
 
 <img src="https://myreadme.vercel.app/api/embed/theonlyhennygod?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
