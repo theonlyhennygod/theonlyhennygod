@@ -41,6 +41,8 @@ As a software engineer with a passion for trading and cryptocurrencies, I find m
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=theonlyhennygod&theme=gruvbox&border_radius=4.5)
 
+<img src="https://myreadme.vercel.app/api/embed/theonlyhennygod?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 #
 
@@ -51,4 +53,15 @@ As a software engineer with a passion for trading and cryptocurrencies, I find m
 - [5 tips on how to become a better Software Engineer](https://medium.com/@argenisdelarosa/5-tips-on-how-to-become-a-better-software-engineer-37866c036ba9)
 - [An alternative approach to using DOM within Visual Studio Code without having to leave the IDE.](https://medium.com/@argenisdelarosa/an-alternative-approach-to-using-dom-within-visual-studio-code-without-having-to-leave-the-ide-2b22b8441093)
 <!-- BLOG-POST-LIST:END -->
+
+
+#
+
+
+### 📲 Socials
+
+<a href="https://www.linkedin.com/in/argenisdelarosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.twitter.com/argenistherose" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.github.com/theonlyhennygod/" target="_blank"><img src="https://img.shields.io/badge/Github-%23E4405F.svg?&style=flat-square&logo=github&logoColor=white" alt="Github"></a>
+
 
