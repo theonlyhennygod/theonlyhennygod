@@ -4,13 +4,15 @@
 
 As a software engineer with a passion for trading and cryptocurrencies, I find myself at the intersection of technology and finance, exploring innovative ways to merge these worlds. By day, I'm immersed in the realm of coding, constantly seeking elegant solutions to complex problems. My love for trading extends beyond the screen, influencing my perspective on how technology can redefine the landscape of financial markets. In my spare time, I wear a different hat as a creative director, channeling my creativity into various projects. This dual role allows me to balance the structured logic of programming with the boundless imagination required for creative endeavors. Join me on this journey where lines between code and creativity blur, and where every line of code tells a story of its own.
 
+<a href="https://www.linkedin.com/in/argenisdelarosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.twitter.com/argenistherose" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+
 ---
 
 ### 🧰 Languages and Tools
 
 
 <img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="Ember" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -42,13 +44,8 @@ As a software engineer with a passion for trading and cryptocurrencies, I find m
 
 
 
-#
 
 
-### 📲 Socials
-
-<a href="https://www.linkedin.com/in/argenisdelarosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.twitter.com/argenistherose" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 
 
