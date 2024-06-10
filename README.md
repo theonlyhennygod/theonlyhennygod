@@ -52,7 +52,7 @@ As a software engineer with a passion for trading and cryptocurrencies, I find m
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-
+![github-contribution-grid-snake](https://github.com/theonlyhennygod/theonlyhennygod/blob/output/github-contribution-grid-snake.svg)
 
 ### 📊 Stats
 
