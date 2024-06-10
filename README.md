@@ -46,6 +46,8 @@ As a software engineer with a passion for trading and cryptocurrencies, I find m
 
 #
 
+![snake gif](https://github.com/theonlyhennygod/theonlyhennygod/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ### 📊 Stats
