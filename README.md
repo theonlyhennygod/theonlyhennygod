@@ -42,16 +42,3 @@ As a software engineer with a passion for trading and cryptocurrencies, I find m
 <img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
 <br />
 
-
-### 📊 Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=theonlyhennygod&theme=highcontrast&border_radius=4.5)
-
-
-
-
-
-
-
-
-
