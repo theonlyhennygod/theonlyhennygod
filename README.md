@@ -20,36 +20,6 @@ By day, I'm immersed in the realm of coding. In my spare time, I wear a differen
 
 ---
 
-## Currently Building
-
-### [ZeroClaw](https://github.com/theonlyhennygod)
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     ███████╗███████╗ ██████╗ ██████╗ ██████╗ ██████╗ ██╗     ║
-║     ╚══███╔╝██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔══██╗██║     ║
-║       ███╔╝ █████╗  ██║     ██║   ██║██║  ██║██████╔╝██║     ║
-║      ███╔╝  ██╔══╝  ██║     ██║   ██║██║  ██║██╔══██╗██║     ║
-║     ███████╗███████╗╚██████╗╚██████╔╝██████╔╝██║  ██║███████╗║
-║     ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝║
-║                                                              ║
-║              🌌 The Future of Trading Intelligence 🌌        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-**ZeroClaw** is an AI-powered trading intelligence platform that combines:
-
-- **Advanced Market Analytics** - Real-time market analysis powered by machine learning
-- **Intelligent Signal Detection** - Identifying patterns and opportunities across multiple markets
-- **Risk Management** - Sophisticated algorithms for portfolio optimization
-- **Seamless Automation** - Execute strategies with precision and speed
-
-> *Building the tools I wished existed when I started trading.*
-
----
-
 ## Tech Arsenal
 
 <p align="left">
