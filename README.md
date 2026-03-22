@@ -38,7 +38,7 @@ By day, I'm immersed in the realm of coding. In my spare time, I wear a differen
 <a href="https://twitter.com/theonlyhennygod">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="https://youtube.com/@theonlyhennygod">
+<a href="https://www.youtube.com/@argenistherose">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
