@@ -2,7 +2,7 @@
 
 # 👨🏽‍💻 Argenis De La Rosa
 
-### Digital Craftsman ( Developer / Trader / Creator )
+### Digital Craftsman ( Developer / Creator )
 
 <img src="https://raw.githubusercontent.com/theonlyhennygod/theonlyhennygod/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
@@ -12,11 +12,11 @@
 
 ## About Me
 
-> *"At the intersection of technology and finance, exploring innovative ways to merge these worlds."*
+> *"Building things that matter, one line of code at a time."*
 
-As a software engineer with a passion for **Trading** and **Artificial Intelligence**, I find myself constantly seeking elegant solutions to complex problems. My love for trading extends beyond the screen, influencing my perspective on how technology can redefine the landscape of financial markets.
+Software engineer obsessed with crafting clean, scalable solutions. I love diving deep into complex systems and making them simple.
 
-By day, I'm immersed in the realm of coding. In my spare time, I wear a different hat as a **creative director**, channeling my creativity into various projects.
+When I'm not coding, I'm a **creative director** — bringing ideas to life through design, content, and storytelling.
 
 ---
 
