@@ -23,7 +23,11 @@ By day, I'm immersed in the realm of coding. In my spare time, I wear a differen
 ## Tech Arsenal
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,tailwind,graphql,mongodb,mysql,firebase,git,linux,docker,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,go,solidity,bash,react,nextjs,nodejs,express,fastapi,tailwind,graphql,prisma&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,supabase,tensorflow,pytorch,anaconda&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,nginx,linux,git,github,githubactions,vscode,vim,figma&perline=8" />
 </p>
 
 ---
