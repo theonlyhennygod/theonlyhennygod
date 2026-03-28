@@ -2,7 +2,7 @@
 
 # 👨🏽‍💻 Argenis De La Rosa
 
-### Digital Craftsman ( Developer / Creator )
+### Digital Craftsman ( Developer / Engineer / Creator )
 
 <img src="https://raw.githubusercontent.com/theonlyhennygod/theonlyhennygod/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
